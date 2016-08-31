@@ -5,37 +5,39 @@ An on-going list of my favourite and most used Sketch Shortcuts.
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>FN</kbd> <kbd>→</kbd> | Next Artboard |
-| <kbd>FN</kbd> <kbd>←</kbd> | Previous Artboard |
+| <kbd>FN</kbd> <kbd>→</kbd> | Next artboard |
+| <kbd>FN</kbd> <kbd>←</kbd> | Previous artboard |
+| <kbd>⌃</kbd> <kbd>⌘</kbd> <kbd>⌥</kbd> <kbd>C</kbd> | Collapse all open artboards except current |
+
 
 ### Pages
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>FN</kbd> <kbd>↑</kbd> | Page Above |
-| <kbd>FN</kbd> <kbd>↓</kbd> | Page Below |
+| <kbd>FN</kbd> <kbd>↑</kbd> | Page above |
+| <kbd>FN</kbd> <kbd>↓</kbd> | Page below |
 
 ### Layers Move/Select
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>⌥</kbd> | Drag Current Layer/Group from any point |
-| <kbd>N/A</kbd> | Drag from Layer Panel to create Bitmap |
-| <kbd>⌥</kbd> | Drag Select within Contained Layers |
-| <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle Through Layers in the Current Group |
-| <kbd>⌘</kbd> <kbd>R</kbd> | Rename Current Layer/Group |
-| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>H</kbd> | Hide/Show Layer/Group |
-| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>L</kbd> | Lock/Unlock Layer/Group |
-| <kbd>⌘</kbd> <kbd>F</kbd> | Find Layer |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>| Move to Up/Down |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>| Move to Top/Bottom of Group |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>| Move layer up/down |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>⌃</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>| Move layer to top/bottom of group |
+| <kbd>⌘</kbd> <kbd>⌥</kbd> | Drag current layer/group from any point |
+| <kbd>N/A</kbd> | Drag from layer panel to create bitmap |
+| <kbd>⌥</kbd> | Drag select within contained layers |
+| <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle through layers in the current group |
+| <kbd>⌘</kbd> <kbd>R</kbd> | Rename current layer/group |
+| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>H</kbd> | Hide/show layer/group |
+| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>L</kbd> | Lock/unlock layer/group |
+| <kbd>⌘</kbd> <kbd>F</kbd> | Find layer |
 
 ### Layers Resize
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>→</kbd> / <kbd>←</kbd> | Resize Width |
-| <kbd>⌘</kbd> <kbd>↓</kbd> / <kbd>↑</kbd> | Resize Height |
+| <kbd>⌘</kbd> <kbd>→</kbd> / <kbd>←</kbd> | Resize width |
+| <kbd>⌘</kbd> <kbd>↓</kbd> / <kbd>↑</kbd> | Resize height |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>→</kbd> / <kbd>←</kbd> | Resize by 10px increments |
 | <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>↓</kbd> / <kbd>←</kbd> | Resize by 10px increments |
 
@@ -43,33 +45,32 @@ An on-going list of my favourite and most used Sketch Shortcuts.
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌘</kbd> <kbd>0</kbd> | Actual Size |
-| <kbd>⌘</kbd> <kbd>1</kbd> | Center Canvas |
-| <kbd>⌘</kbd> <kbd>2</kbd> | View Selected Layer |
-| <kbd>⌃</kbd> <kbd>⌘</kbd> <kbd>F</kbd> | Enter Full Screen |
+| <kbd>⌘</kbd> <kbd>0</kbd> | Actual size |
+| <kbd>⌘</kbd> <kbd>1</kbd> | Center canvas |
+| <kbd>⌘</kbd> <kbd>2</kbd> | View selected layer |
+| <kbd>⌃</kbd> <kbd>⌘</kbd> <kbd>F</kbd> | Enter full screen |
 
 ### Toggle
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>1</kbd> | Toggle Layers List |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>2</kbd> | Toggle Inspector |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>3</kbd> | Toggle Layers and Inspector |
-| <kbd>⌃</kbd> <kbd>R</kbd> | Toggle Rulers |
-| <kbd>⌃</kbd> <kbd>G</kbd> | Toggle Grid |
-| <kbd>⌃</kbd> <kbd>P</kbd> | Toggle Pixels |
-| <kbd>⌃</kbd> <kbd>L</kbd> | Toggle Layer Guides |
-| <kbd>⌃</kbd> <kbd>H</kbd> | Toggle Selection Handles |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>T</kbd> | Toggle Toolbar |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>1</kbd> | Toggle layers List |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>2</kbd> | Toggle inspector |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>3</kbd> | Toggle layers and inspector |
+| <kbd>⌃</kbd> <kbd>R</kbd> | Toggle rulers |
+| <kbd>⌃</kbd> <kbd>G</kbd> | Toggle grid |
+| <kbd>⌃</kbd> <kbd>P</kbd> | Toggle pixels |
+| <kbd>⌃</kbd> <kbd>L</kbd> | Toggle layer guides |
+| <kbd>⌃</kbd> <kbd>H</kbd> | Toggle selection handles |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>T</kbd> | Toggle toolbar |
+
 
 ### General
 
 | Shortcut | Description |
 | -------- | ----------- |
-| <kbd>Space</kbd> | Hand Tool |
-| <kbd>Z</kbd> | Zoom Tool |
-| <kbd>⌘</kbd> <kbd>2</kbd> | Zoom to Selected Layers |
-| <kbd>⌘</kbd> <kbd>3</kbd> | Scroll to Selected Layers |
+| <kbd>Space</kbd> | Hand tool |
+| <kbd>Z</kbd> | Zoom tool |
 
 ### File
 
@@ -78,12 +79,12 @@ An on-going list of my favourite and most used Sketch Shortcuts.
 | <kbd>⌘</kbd> <kbd>N</kbd> | New |
 | <kbd>⌘</kbd> <kbd>O</kbd> | Open |
 | <kbd>⌘</kbd> <kbd>W</kbd> | Close |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>W</kbd> | Close All |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>W</kbd> | Close all |
 | <kbd>⌘</kbd> <kbd>S</kbd> | Save |
 | <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>S</kbd> | Save As |
 | <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>S</kbd> | Duplicate |
 | <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>E</kbd> | Export |
-| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>P</kbd> | Page Setup |
+| <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>P</kbd> | Page setup |
 
 ### Edit
 
@@ -96,8 +97,8 @@ An on-going list of my favourite and most used Sketch Shortcuts.
 | <kbd>⌘</kbd> <kbd>V</kbd> | Paste |
 | <kbd>⌘</kbd> <kbd>D</kbd> | Duplicate |
 | <kbd>⌘</kbd> <kbd>A</kbd> | Select All |
-| <kbd>⌘</kbd> <kbd>:</kbd> | Show Spelling and Grammar |
-| <kbd>⏎</kbd> | Edit Currently Selected Layer |
+| <kbd>⌘</kbd> <kbd>:</kbd> | Show spelling and grammar |
+| <kbd>⏎</kbd> | Edit currently selected layer |
 | <kbd>⌃</kbd> <kbd>C</kbd>  | Clone colour |
 
 ### Styles
@@ -105,7 +106,7 @@ An on-going list of my favourite and most used Sketch Shortcuts.
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>C</kbd> | Copy Style |
-| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>V</kbd> | Paste Style to Selected |
+| <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>V</kbd> | Paste style to selected |
 
 ### Insert
 
